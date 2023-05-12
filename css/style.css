@@ -183,6 +183,18 @@ body {
   justify-content: center;
   gap: 24px;
 }
+.container-logo-img{
+ margin-bottom: 8px;
+  padding: 24px 100px 24px 100px;
+  background: #F4F4FD;
+border-radius: 4px;
+}
+.logo-img{
+  display: flex;
+  box-sizing: content-box;
+ margin: auto;
+ 
+}
 .item-section-second {
   width: calc((100%-72px) / 4);
 }
@@ -270,6 +282,25 @@ body {
   flex: none;
   order: 1;
   flex-grow: 0;
+}
+/* =======================CUSTOMERS================ */
+.section-customers{
+  padding:120px 156px 120px 156px ;
+}
+.title-customers{
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2E2F42; 
+  margin-bottom: 72px;
+}
+.containet-menu-icon-customers{
+  padding: 16px 32px;
+  border: 1px solid #8E8F99;
+border-radius: 4px;
 }
 /*========== FOOTER ==========*/
 .footer {
