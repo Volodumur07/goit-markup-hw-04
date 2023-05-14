@@ -379,6 +379,13 @@ body {
 .logotextstudio-footer {
   color: #f4f4fd;
 }
+.social-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
 .menu-social-icon-footer {
   display: flex;
   justify-content: center;
