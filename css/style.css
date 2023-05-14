@@ -351,10 +351,12 @@ body {
 }
 /*========== FOOTER ==========*/
 .footer {
-  display: flex;
-  align-items: baseline;
   background-color: #2e2f42;
   padding: 100px 100px;
+}
+.container-footer {
+  display: flex;
+  align-items: baseline;
 }
 .container-logo-footer {
   margin-right: 120px;
