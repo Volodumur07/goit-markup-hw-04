@@ -377,7 +377,7 @@ body {
   align-items: baseline;
 }
 .container-logo-footer {
-  margin-right: 120px;
+  gap: 120px;
 }
 .logo-footer {
   display: inline-block;
