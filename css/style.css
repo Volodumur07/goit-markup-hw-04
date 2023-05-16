@@ -377,10 +377,10 @@ body {
 .container-footer {
   display: flex;
   align-items: baseline;
-  gap: 120px
-  ;
 }
-
+.container-logo-footer{
+  margin-right: 120px;
+}
 .logo-footer {
   display: inline-block;
   margin-bottom: 16px;
